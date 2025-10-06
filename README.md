@@ -2,7 +2,7 @@
 
 **Product Engineer | Building at the intersection of Product & Technology**
 
-I bridge the gap between product strategy and technical execution—a product person who codes and a developer who thinks in outcomes. Currently deepening my expertise in AI/ML to build smarter products.
+I bridge the gap between product strategy and technical execution : a product person who codes and a developer who thinks in outcomes. Currently deepening my expertise in AI/ML to build smarter products.
 
 ## 🚀 What I Do
 
