@@ -2,7 +2,7 @@
 
 **Product Engineer | Building at the intersection of Product & Technology**
 
-I bridge the gap between product strategy and technical execution : a product person who codes and a developer who thinks in outcomes. Currently deepening my expertise in AI/ML to build smarter products.
+I bridge the gap between product strategy and technical execution—a product person who codes and a developer who thinks in outcomes. Currently deepening my expertise in AI/ML to build smarter products.
 
 ## 🚀 What I Do
 
@@ -13,17 +13,20 @@ I bridge the gap between product strategy and technical execution : a product pe
 
 ## 💡 Current Focus
 
+- Pursuing **IBM Generative AI Certification** - learning enterprise AI applications
 - Upskilling in **AI/ML** and practical applications in product development
 - Building products that combine strong UX with solid technical foundations
 - Exploring **product-led growth** strategies and **cybersecurity** in product design
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**: [Add your actual tech stack here - e.g., Python, JavaScript, React, etc.]
+**Languages & Frameworks**: Python, Django, React, TypeScript, SQL
 
-**Product Tools**: Jira, Figma, Mixpanel, Product Analytics platforms
+**Product Tools**: Jira, Figma, Metabase, Confluence, Miro
 
-**AI/ML**: [Add what you're learning/using - e.g., TensorFlow, OpenAI APIs, etc.]
+**AI/ML**: ChatGPT API, Claude API, Prompt Engineering, Gen AI Prototyping, Fine-tuning, RAG (Retrieval-Augmented Generation)
+
+**Currently Learning**: IBM Generative AI for Software Developers Certification
 
 ## 🤝 Let's Collaborate On
 
