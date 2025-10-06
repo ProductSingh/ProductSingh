@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mankaran Singh Saggu, @ProductSingh
 - 👀 I’m interested in Product Management, AI, Data analytics and all things tech that impact business.
-- 🌱 I’m currently learning Cyber Security and IT at Deakin University, Australia
 - 💞️ I’m looking to collaborate on Product Management, Product discovery and roadmap creation, Cybersecurity
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/mankaransinghs/ , Phone: +61 - 426666900
 - 😄 Pronouns: He/Him
