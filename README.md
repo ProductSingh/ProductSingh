@@ -20,7 +20,7 @@ I bridge the gap between product strategy and technical execution—a product pe
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**: Python, Django, React, TypeScript, SQL
+**Languages & Frameworks**: Python, Django, TypeScript, SQL
 
 **Product Tools**: Jira, Figma, Metabase, Confluence, Miro
 
